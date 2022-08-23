@@ -51,3 +51,7 @@ body{
     background-color: #ffb114;
     border: 1px solid #543000;
 }
+
+.container{
+    margin: 10px auto;
+}
