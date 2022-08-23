@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+/* main body styling */
+
+body{
+
+    height: 100vh;
+    background-image: url("../images/main_background.jpeg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+#sample-text-card{
+    margin: 0px 200px;
+    font-family: comfortaa;
+}
+
+.card-body{
+-ms-flex-align: center;
+}
+
+#sample-text-card h1{
+   font-size: 70px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin-top: 200px; 
+}
+
+.card-title{
+    font-size: 20px;
+}
+
+#sample-text-card p{
+font-size: 18px;}
+
+.login{
+    margin: 100px;
+    /* background-color: aliceblue; */
+    width: 200px;
+    /* background-color: burlywood; */
+    outline-style: none;
+} 
+
+.button-wrapper a{
+
+    width: 200px;
+    /* background-color: burlywood; */
+    font-size: 20px;
+    border: 20px;
+    color: black;
+    outline-style: none;
+}
+

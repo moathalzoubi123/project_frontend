@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+body{
+    background-color: gray;
+}
+
+.main.page.header{
+
+    padding: 10px 0px;
+}
+
+
+.company-name{
+    font-weight: 600;
+    color: black;
+}
+
+.navigation{
+
+    /* border: 1px solid white; */
+    margin-left: 100px;
+}
+
+.navigation li{
+    display: inline-block; 
+    list-style-type: none;
+    margin: 0px 15px;
+}
+
+
+.navigation li a{
+    color: white;
+    text-decoration: none;
+}
+
+.display-name{
+    font-weight: 600;
+}
+
+#transact-btn{
+    background-color: #ffb114;
+    border: 1px solid #543000;
+
+}
+
+#add-account-btn{
+    background-color: #ffb114;
+    border: 1px solid #543000;
+}
